@@ -25,4 +25,4 @@ Matthias Nitsche presented
 
 paper: https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
 
-presentation: [Deep Learning presentation](deeplearning_paper-slides_01-06-2017.pdf)
+presentation: [Deep Learning presentation](materials/deeplearning_paper-slides_01-06-2017.pdf)
