@@ -1,5 +1,5 @@
 # DeepLearningGroup
-Deep Learning Goup for Students of Hamburg
+Deep Learning Group for Students of Hamburg
 
   - We meet every 2 weeks
   - We discuss and present in English
